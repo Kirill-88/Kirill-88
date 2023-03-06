@@ -44,6 +44,5 @@ _Тестирование - не прохождение тест-кейсов, �
 
 ## Мои контакты
 
-[![Website][<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Noun_Project_website_icon_3077870.svg' alt='website' height='30'>](https://kirill-88.github.io/)
-[![Telegram][<img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='36'>](https://t.me/Zalipon88)
-
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Noun_Project_website_icon_3077870.svg' alt='website' height='30'>](https://kirill-88.github.io/) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' height='36'>](https://t.me/Zalipon88)
