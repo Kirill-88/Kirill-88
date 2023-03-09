@@ -14,6 +14,15 @@ _Тестирование - не прохождение тест-кейсов, �
 
 [сслыка на резюме](https://ссылочку_сюда)
 
+## Портфолио
+- [Сайт-визитка 🦈](https://github.com/Kirill-88/Kirill-88.github.io.git)
+- [Несколько автотестов на JS для Postman 🐝](https://github.com/Kirill-88/postman_autotest.git)
+- [Автотесты на cypress 🦊](https://github.com/Kirill-88/cypress.git)
+- [Нагрузочные тесты для двух эндпоинтов в Jmeter 🦅](https://github.com/Kirill-88/Jmeter.git)
+- [Пример автотестов на Python + Selenium 🐍](https://github.com/Kirill-88/PythonAutotests.git)
+- [Пример автотестов на pytest + requests 🐍](https://github.com/Kirill-88/python_autotests.git)
+- [Бот для генерации тестовых данных 🐊](https://github.com/Kirill-88/tg_test_data.git)
+
 ## Инструменты и технологии
 
 
